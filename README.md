@@ -1,10 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Gaurang+Chhabra;B.Tech+CSE+Student;Learning+Web+Development;DSA+Enthusiast" />
+
  # Hi 👋, I'm Gaurang Chhabra
 
 🎓 First Year B.Tech CSE Student
 
 💻 Passionate about Full Stack Development and Problem Solving
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Gaurang+Chhabra;B.Tech+CSE+Student;Learning+Web+Development;DSA+Enthusiast;Building+Real+World+Projects" />
 ---
 
 ## 👨‍💻 About Me
@@ -17,10 +18,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" />
-</p>
 
 ### Languages
 - C
@@ -37,6 +34,10 @@
 - Git
 - GitHub
 - VS Code
+  
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" />
+</p>
 
 ---
 

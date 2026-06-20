@@ -60,7 +60,7 @@ Responsive UI built using HTML and CSS.
 ## 🏆 Achievements
 
 - 9.24 CGPA in First Semester
-- Solved 70+ LeetCode Problems
+- Solved 100+ LeetCode Problems
 - Participated in GSSOC
 - B.Tech CSE Student
 - won 2 ALL INDIA TENNIS ASSOCIATION CS7 -U16 tournament

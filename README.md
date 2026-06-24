@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning JavaScript and Web Development
-- 📚 Solved 100+ LeetCode Problems
+- 📚 Solved 105+ LeetCode Problems
 - 🎯 Goal: Become a skilled Software Engineer
 - ⚡ Love building real-world projects
 

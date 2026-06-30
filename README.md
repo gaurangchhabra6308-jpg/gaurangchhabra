@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning JavaScript and Web Development
-- 📚 Solved 105+ LeetCode Problems
+- 📚 Solved 115+ LeetCode Problems
 - 🎯 Goal: Become a skilled Software Engineer
 - ⚡ Love building real-world projects
 
@@ -43,9 +43,6 @@
 
 ## 🚀 Projects
 
-### Smart Shopping Assistant
-Budget-based shopping recommendation platform.
-
 ### Interview Prep Hub
 Track DSA progress, contests, and revisions.
 
@@ -66,10 +63,10 @@ Responsive UI built using HTML and CSS.
 ## 🏆 Achievements
 
 - 9.24 CGPA in First Semester
-- Solved 100+ LeetCode Problems
+- Solved 115+ LeetCode Problems
 - Participated in GSSOC
 - B.Tech CSE Student
-- won 2 ALL INDIA TENNIS ASSOCIATION CS7 -U16 tournament
+- won 2 ALL INDIA TENNIS ASSOCIATION CS7 -U16 tournament in Lawn Tennis
 
 ---
 
